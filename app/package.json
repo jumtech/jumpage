@@ -1,0 +1,25 @@
+{
+  "name": "jumpage",
+  "version": "1.0.0",
+  "description": "jumpei_ikegami's page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test speciﬁed\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumtech/jumpage.git"
+  },
+  "keywords": [
+    "jumpage"
+  ],
+  "author": "jumpei ikegami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jumtech/jumpage/issues"
+  },
+  "homepage": "https://github.com/jumtech/jumpage#readme",
+  "dependencies": {
+    "express": "4.15.2"
+  }
+}
