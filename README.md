@@ -1,5 +1,5 @@
 ## what's this?
-- jumpei_ikegamiのポートフォリオページです
+- [jumpei_ikegami](https://twitter.com/jumpei_ikegami)のポートフォリオページです
 - ソースコードと実装方法を公開しているので、学習用途でも使えます
 
 ## 技術スタック
